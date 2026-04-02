@@ -34,7 +34,7 @@ en la plataforma Kattis, desarrolladas en Java.
 ## Tecnología
 - Java (JDK 27)
 - Algoritmos y estructuras de datos
-- Entrenamiento maratón de programación — UFPS
+- Entrenamiento maratón de programación — UFPSO
 
 ## Estructura
 ```
