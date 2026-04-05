@@ -4,8 +4,8 @@ Colección de soluciones a problemas algorítmicos resueltos
 en la plataforma Kattis, desarrolladas en Java.
 
 ##  Stats actuales
--  Score: 25.1
--  Ranking universitario: #46 en Francisco de Paula Santander University
+-  Score: 33.1
+-  Ranking universitario: #39 en Francisco de Paula Santander University
 -  País: Colombia
 -  Perfil: https://open.kattis.com/users/danna-sofia-velanida
 
@@ -30,6 +30,12 @@ en la plataforma Kattis, desarrolladas en Java.
 | Missing Numbers | Easy | 1.8 |
 | Skammstöfun | Easy | 1.2-1.5 |
 | Velkomin! | Easy | 1.0 |
+| ABC | Easy | 1.8 |
+| Liðaskipting | Easy | 1.1-1.6 |
+| A Real Challenge | Easy | 1.7 |
+| A Tale of Two Queues | Easy | 1.4 |
+| A Little Leftover Pizza | Easy | 1.5 |
+
 
 ## Tecnología
 - Java (JDK 27)
