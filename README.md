@@ -4,9 +4,9 @@ Colección de soluciones a problemas algorítmicos resueltos
 en la plataforma Kattis, desarrolladas en Java.
 
 ##  Stats actuales
--  Score: 55.9
+-  Score: 57.3
 -  Problemas resueltos: 23+
--  Ranking universitario: #24 en Francisco de Paula Santander University
+-  Ranking universitario: #23 en Francisco de Paula Santander University
 -  País: Colombia
 -  Perfil: [mi perfil en Kattis](https://open.kattis.com/users/danna-sofia-velandia)
 
